@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="done">Готово!</string>
+    <string name="undo">Отменить</string>
+    <string name="add_task">Добавь задачу</string>
+    <string name="add_title">Добавь заголовок</string>
+    <string name="important">Важное</string>
+    <string name="empty_task">Пустые поля!</string>
+    <string name="save">Сохранить</string>
+    <string name="close">Закрыть</string>
+    <string name="no_tasks">Задач нет:)</string>
+</resources>

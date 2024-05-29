@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="done">DONE! -></string>
+    <string name="undo">UNDO</string>
+    <string name="add_task">Add Task</string>
+    <string name="add_title">Add Title</string>
+    <string name="important">Important</string>
+    <string name="empty_task">Empty Task!</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+    <string name="no_tasks">No tasks:)</string>
+
+</resources>
